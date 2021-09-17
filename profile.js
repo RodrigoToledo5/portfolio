@@ -44,23 +44,23 @@ export const experiencies=[
     {
         title:'Actualmente estoy estudiando Ingeniería biomédica.',
         subtitle:"Mis comienzos en la programación",
-        description:"Siempre me apasionó el impacto que tiene la tecnología y la ciencia en la sociedad y por eso decidi comenzar mis estudios hace unos años en dicha carrera, fue donde comenzó mi pasión por programar y gracias a un gran profesor que supo transmitirme en ese momento esa pasión que el mismo tiene cuando arranque con C++.",
+        description:"Siempre me apasionó el impacto que tiene la tecnología y la ciencia en la sociedad y por eso decidí comenzar mis estudios hace unos años en dicha carrera, fue donde comenzó mi pasión por programar y gracias a un gran profesor que supo transmitirme en ese momento esa pasión que el mismo tiene cuando arranque con C++.",
 
     },
     {
         title:'Full Stack Web Developer Bootcam SoyHenry',
         subtitle:"El trabajo en equipo y el compañerismo",
-        description:"Hace muy poco termine la bootcam SoyHenry en la cual tuve una experiencia expecional, con grandes compañeros y profesores, gracias a ellos, hoy me encuentro en busqueda laboral, aprendí todo el camino que conlleva a la construcción de una página web desde el front end, pasando por el backend hasta su base de datos.",
+        description:"Hace muy poco termine la bootcam SoyHenry en la cual tuve una experiencia excepcional, con grandes compañeros y profesores, gracias a ellos, hoy me encuentro en búsqueda laboral, aprendí todo el camino que conlleva a la construcción de una página web desde el front end, pasando por el backend hasta su base de datos.",
     },
     {
         title:'Workshops en SoyHenry',
         subtitle:"Muchos conocimientos",
-        description:"En las ultimas semanas de la bootcam tuve la oportunidad de parcipar en varios workshops de diversas tematicas como Typescript, React, Native,Teoría de redes, Deployment, Github, Buenas practicas de programación.",
+        description:"En las últimas semanas de la bootcam tuve la oportunidad de participar en varios workshops de diversas temáticas como Typescript, React, Native,Teoría de redes, Deployment, Github, Buenas prácticas de programación.",
     },
     {
         title:'Mi historia con Python',
         subtitle:"Amigos en internet",
-        description:"Después de haber terminado de cursar C++ en la universidad, decidí investigar sobre el mundo de Python, luego en un juego me hice unos amigos que me enseñaron alguna que otras cosas que me ayudaron mucho, llegue a implementar un par de boots de telegram que ejecutaban funciones en mi PC a través del servicio de mensajería de telegram, en una maquina virtual que tenia armada con Ubuntu",
+        description:"Después de haber terminado de cursar C++ en la universidad, decidí investigar sobre el mundo de Python, luego en un juego me hice unos amigos que me enseñaron alguna que otras cosas que me ayudaron mucho, llegue a implementar un par de boots de telegram que ejecutaban funciones en mi PC a través del servicio de mensajería de telegram, en una máquina virtual que tenía armada con Ubuntu.",
     },
     {
         title:'Workshop plataformas de gestión médica',
@@ -70,7 +70,7 @@ export const experiencies=[
     {
         title:'Ciberseguridad',
         subtitle:"En la universidad de la UADER",
-        description:"Participé en un workshop en el cual se trataba el tema sobre el uso de honey post para la protección de servidores, y el hacking etico",
+        description:"Participé en un workshop en el cual se trataba el tema sobre el uso de honey post para la protección de servidores, y el hacking ético",
     },
 ]
 export const project=[
